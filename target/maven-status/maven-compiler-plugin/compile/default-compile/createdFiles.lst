@@ -1,0 +1,6 @@
+com\mycompany\examenparcial1\model\Cliente.class
+com\mycompany\examenparcial1\MainWebAppInitializer.class
+com\mycompany\examenparcial1\WebConfig.class
+com\mycompany\examenparcial1\service\ClienteService.class
+com\mycompany\examenparcial1\controller\cliente\ClienteController.class
+com\mycompany\examenparcial1\controller\IndexController.class
